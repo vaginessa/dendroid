@@ -1,0 +1,2 @@
+npyscreen==3.37
+wheel==0.23.0
